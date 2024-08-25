@@ -1,6 +1,10 @@
+
+
 # Course Notes: Neural Networks and Deep Learning
 
 Course notes aggregated from Roger Grosse and Jimmy Ba's [Neural Networks and Deep Learning](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/) Class at the University of Toronto.
+
+![NNs](./NNs.webp)
 
 ## Table of Contents
 
