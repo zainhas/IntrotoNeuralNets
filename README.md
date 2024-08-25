@@ -4,7 +4,9 @@
 
 Course notes aggregated from Roger Grosse and Jimmy Ba's [Neural Networks and Deep Learning](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/) Class at the University of Toronto.
 
-![NNs](./NNs.webp)
+<p align="center">
+  <img src="./NNs.webp" alt="NNs" width="300"/>
+</p>
 
 ## Table of Contents
 
